@@ -1,0 +1,6 @@
+*
+!ajrli_machines/
+!ajrli_machines/**
+!hasad_machines/
+!hasad_machines/**
+!.gitignore
